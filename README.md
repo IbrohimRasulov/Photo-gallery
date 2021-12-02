@@ -6,12 +6,12 @@
 
 ![screenshot](./app_screenshot.png)
 
-> I build this project with [The Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff), and it is fully responsive for all kind of devices. Besides with the help of CSS library, the project is user friendly and awesome! I recommend to check the live demo link out:)
+> I build this project with [The Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9gGrbtvASEZSlFEYBnPkmff), and it is fully responsive for all kinds of devices. Besides, with the help of the CSS library, the project is user-friendly and awesome! I recommend checking the live demo link out:)
 
 ## Built With
 
 - HTML5, CSS3
-- No frameworks
+- [Materialize](https://materializecss.com/getting-started.html)
 - GitHub pages, VS Code, Live Server
 
 ## Live Demo
